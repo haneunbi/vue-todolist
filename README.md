@@ -1,5 +1,9 @@
 # vue-todolist
 
+Vue.js를 이용한 간단한 To Do List (Vue CLI, SCSS)
+
+---
+
 ## Project setup
 ```
 npm install

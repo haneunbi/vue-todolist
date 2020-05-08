@@ -1,0 +1,6 @@
+html{scroll-behavior:smooth}
+html,body{height:100%}
+body{margin:0;background:#00b09b;background:-webkit-linear-gradient(to bottom,#96c93d,#00b09b);background:linear-gradient(to bottom,#96c93d,#00b09b)}
+ul{margin:0;padding:0;list-style:none}
+input{padding:0;border:0;vertical-align:top}
+button{padding:0;border:0;font:inherit;background-color:transparent}
